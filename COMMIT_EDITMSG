@@ -1,0 +1,27 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: root <root@ip-10-10-0-229.ec2.internal>
+#
+# On branch master
+#
+# Initial commit
+#
+# Untracked files:
+#	.bash_history
+#	.bash_logout
+#	.bash_profile
+#	.bashrc
+#	.cache/
+#	.ssh/
+#	.viminfo
+#	apache-maven-3.8.1-bin.tar
+#	apache-maven-3.8.1/
+#	apache-tomcat-9.0.44.tar
+#	apache-tomcat-9.0.44/
+#	fusionmiddleware-downloads.html
+#	fusionmiddleware-downloads.html.1
+#	jenkins.war
+#	tcskey
+#
