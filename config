@@ -2,3 +2,7 @@
 	repositoryformatversion = 0
 	filemode = true
 	logallrefupdates = true
+	bare = false
+[remote "origin"]
+	url = https://github.com/aallavijaydxc/devops.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
